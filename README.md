@@ -1,4 +1,3 @@
-# Senai-Projetos
 # 🐍 Projetos em Python
 
 Repositório contendo meus projetos desenvolvidos durante meus estudos de Python.
